@@ -1,0 +1,38 @@
+
+DATA CLEANING AND VISUALIZATION PROJECT
+=======================================
+
+PROJECT SUMMARY
+
+Original Dataset Records: 15
+Cleaned Dataset Records: 14
+
+Original Missing Values: 2
+Remaining Missing Values: 0
+
+Original Duplicate Records: 1
+Remaining Duplicate Records: 0
+
+DATA ANALYSIS
+
+Average Marks: 80.89
+Average Attendance: 86.78
+
+Best Performing Department:
+IT
+
+TECHNOLOGIES USED
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Google Colab
+
+CONCLUSION
+
+The project demonstrates data preprocessing,
+missing value handling, duplicate removal,
+outlier handling, exploratory data analysis
+and visualization.
